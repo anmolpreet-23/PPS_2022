@@ -33,10 +33,11 @@ else
 printf("c is greater");
 
 }
-```
-**Output : c is greater**
 
 return 0;
 
 
 }
+```
+**Output : c is greater**
+
